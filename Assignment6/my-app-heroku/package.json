@@ -1,0 +1,16 @@
+{
+  "name": "my-app-heroku",
+  "version": "1.0.0",
+  "description": "Web422 Assignment6",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kazim Akhlaqi",
+  "license": "ISC"
+}
